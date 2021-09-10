@@ -1,11 +1,12 @@
 ## Hi there! I am Luann Sapucaia 👋
-
+  ## &#x1f4c8; My GitHub Stats
 <div>
   <a href="https://github.com/sapucaialuann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sapucaialuann&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapucaialuann&layout=compact&langs_count=7&theme=light"/>
 </div>
   
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Luann-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luann-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,15 +18,6 @@
   <img align="right" alt="Octodex" src="https://octodex.github.com/images/baracktocat.jpg" height="150">
 </div>
   
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/sapucaialuann/sapucaialuann">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapucaialuann&hide=java,html&title_color=000000&text_color=000000" />
-</a>
-
-<a href="https://github.com/sapucaialuann/sapucaialuann">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sapucaialuann&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="sapucaialuann's GitHub Stats" />
-</a>
   
 <div>
   <a href="https://www.linkedin.com/in/sapucaialuann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
